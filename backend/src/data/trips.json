@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Santorini Escape", "place": "Greece", "region": "Europe", "days": 7, "price": 1890, "rating": 4.9, "icon": "🏛️", "color": "#7cc8f0", "about": "Whitewashed villages, caldera sunsets and a boat day to the volcano." },
+  { "id": 2, "name": "Kyoto in Bloom", "place": "Japan", "region": "Asia", "days": 9, "price": 2650, "rating": 4.8, "icon": "⛩️", "color": "#ffb7c9", "about": "Temples, tea houses and a guided walk through Arashiyama at dawn." },
+  { "id": 3, "name": "Sundarbans River Trail", "place": "Bangladesh", "region": "Asia", "days": 4, "price": 420, "rating": 4.7, "icon": "🐅", "color": "#8fd49a", "about": "Cruise the mangrove channels with a naturalist and spot wildlife." },
+  { "id": 4, "name": "Amalfi Coast Drive", "place": "Italy", "region": "Europe", "days": 6, "price": 2140, "rating": 4.8, "icon": "🍋", "color": "#ffe08a", "about": "Cliffside towns, lemon groves and long seafood lunches." },
+  { "id": 5, "name": "Serengeti Safari", "place": "Tanzania", "region": "Africa", "days": 8, "price": 3790, "rating": 4.9, "icon": "🦁", "color": "#f5b36b", "about": "Game drives across the plains during the great migration." },
+  { "id": 6, "name": "Patagonia Trek", "place": "Chile", "region": "Americas", "days": 10, "price": 3290, "rating": 4.8, "icon": "🏔️", "color": "#b3c7e6", "about": "Hike Torres del Paine with mountain huts and expert guides." },
+  { "id": 7, "name": "Maldives Overwater", "place": "Maldives", "region": "Asia", "days": 5, "price": 2980, "rating": 4.9, "icon": "🏝️", "color": "#6fe0d6", "about": "A private villa over the lagoon, snorkeling and sandbank dinners." },
+  { "id": 8, "name": "Cusco & Machu Picchu", "place": "Peru", "region": "Americas", "days": 8, "price": 2410, "rating": 4.7, "icon": "🦙", "color": "#d9b88f", "about": "Acclimatize in the Sacred Valley, then take the train to the citadel." }
+]
